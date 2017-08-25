@@ -1,0 +1,3 @@
+# SoftwareImpressaoZebraZPL
+# SoftwareImpressaoZebraZPL
+# EmissorEtiquetasGondolas-ZPL
