@@ -2,6 +2,8 @@
 
 Software Emissor de Etiquetas Gondolas.
 
-O objetivo deste software é gerar impressões de etiquetas com informações de produto(Código, Descrição,Preços, etc).Sendo assim este software foi desenvolvido para buscar informações em um banco de dados já existente, onde as informação são coletadas através de querys, e preparadas e enviar em um formato especifico da impressor termica Zebra na versão ZPL.
+O objeto deste software é emitir impressões de etiquetas gondolas usando uma impressora propria para esta finalizade (Zebra CG420t ou qualquer impressora com linguagem ZPL). Neste software foi criado um CRUD básico para ler informações de tabela e view no banco de dados Oracle do ERP da empresa onde o software está operando para realizar as rotinas de atulização de etiqueta de preços na gondolas(prateleira) das lojas do supermercado.
 
-Projeto foi desenvolvido na IDE NetBeans utilizando boas práticas como o MVC.
+
+
+Projeto foi desenvolvido na IDE NetBeans utilizando padrões de projeto MVC.
